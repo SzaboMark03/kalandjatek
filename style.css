@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    background-size: 100% auto;
+    color: gray;
+    font-size: large;
+    text-align: center;
+}
+
+a:link {
+    color: red;
+    font-size: 0.75cm;
+}
+
+a:visited {
+    color:rosybrown;
+}
+
+
+
+
+
+
